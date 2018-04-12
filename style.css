@@ -1,0 +1,24 @@
+body {
+	
+	text-align: center;
+	display: flex;
+	background-color: lightblue;
+	justify-content: space-around;
+	color: green;
+}
+button {
+	color: green;
+}
+button:hover {
+	color: red;
+}
+
+.contactForm {
+	border: solid 2px blue;
+}
+.contactImage {
+	width: 100px;
+	height: 100px;
+	padding-top: 25px
+}
+
