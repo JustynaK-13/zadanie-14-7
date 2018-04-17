@@ -17,6 +17,6 @@ render: function() {
           {this.props.item.email}
       </a>
     </div>
-    );
+    )
   }
 });    
